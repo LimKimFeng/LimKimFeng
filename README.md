@@ -1,5 +1,3 @@
-  Hi, I'm Cornelius Nathaniel (LimKimFeng)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-right: 10px;">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi,+I'm+Cornelius+Nathaniel;Fullstack+Developer+%26+Marketer;Linux+Enthusiast;Building+Tech+for+Indonesia" alt="Typing SVG" />
 </div>
@@ -66,13 +64,30 @@ Here are my top projects demonstrating full-stack capabilities:
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 Global Readiness (Language Proficiency)
+
+As I prepare for international studies (China/Hungary), I am actively developing my language skills to collaborate globally.
+
+| Language | Proficiency Level | Context |
+| :--- | :--- | :--- |
+| 🇮🇩 **Indonesian** | **Native** | Mother Tongue |
+| 🇺🇸 **English** | **Intermediate** | IELTS Preparation (Professional Working Proficiency) |
+| 🇨🇳 **Mandarin** | **HSK 3** | HSK Preparation (Active Learner) |
+
+---
 
 <div align="center">
-  <a href="https://github.com/LimKimFeng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LimKimFeng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimFeng&layout=compact&theme=tokyonight&hide_border=true" />
+  <h3>Let's Collaborate!</h3>
+  <p>Open for opportunities in <b>Fullstack Development</b> and <b>Performance Marketing</b>.</p>
+  
+  <a href="https://www.linkedin.com/in/cornelius-n" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:corneliusnathaniel.08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send_me_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <br><br>
+  <i>"Code builds the product. Marketing tells the story. I do both."</i>
 </div>
 
 <br>
